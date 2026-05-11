@@ -73,27 +73,27 @@ The dashboard helps monitor:
 # Dashboard Preview
 
 ## Main Dashboard
-![Dashboard](Images/dashboard_overview.png)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
 ## KPI Summary
-![KPI](Images/kpi_summary.png)
+![KPI](images/kpi_summary.png)
 
 ---
 
 ## Ticket Volume Trend
-![Trend](Images/ticket_volume_trend.png)
+![Trend](images/ticket_volume_trend.png)
 
 ---
 
 ## Resolution Analysis
-![Resolution](Images/resolution_analysis.png)
+![Resolution](images/resolution_analysis.png)
 
 ---
 
 ## Priority & Severity Analysis
-![Priority](Images/priority_severity_analysis.png)
+![Priority](images/priority_severity_analysis.png)
 
 ---
 
